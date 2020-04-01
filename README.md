@@ -8,8 +8,9 @@ A fun game inspired by the social movement called 'panelaço', where people expr
 - [X] Implement model Player
 - [ ] Implement model Game
 - [ ] Game Design Frontend 
+- [ ] Make Logic of countdown from server to clients
 - [ ] Endpoint Gamestatus
 - [ ] Endpoint to storage game data player on model Player
-- [ ] Make Logic of countdown from server to clients
+- [ ] Create end of game with game results
 - [ ] Deploy EC2
-
+- [ ] Provide register panelasso.com.br
